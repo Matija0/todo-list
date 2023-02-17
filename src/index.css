@@ -77,3 +77,23 @@
   gap: 10px;
   margin-top: 15px;
 }
+
+.Active{
+  color: #e85d04;
+  
+}
+
+.Completed{
+  color: green;
+}
+
+.nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#task-complete{
+  font-size: 30px;
+  margin-right: 30px;
+}
